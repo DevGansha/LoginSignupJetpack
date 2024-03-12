@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginSignupJetpack</string>
+
+    <string name="hello">Hello there</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="strong_password">Strong password</string>
+    <string name="tnc_heading">Terms and conditions</string>
+    <string name="tnc_text">By continuing you accept our <u>Privacy Policy</u> and <u>Terms of use</u></string>
+
+</resources>
